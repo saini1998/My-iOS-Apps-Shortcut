@@ -1,8 +1,11 @@
 # My-iOS-Apps-Shortcut
 
-## Check out these apps that I created here 
+## Check out these apps that I made (in the order of recently created)
 
-### 1. InspoQuotes: Currently Working! (Learning to incorporate in app purchases)
+### 1. [Trivia AR](https://github.com/saini1998/TriviaAR)
+### 2. [Dine AR](https://github.com/saini1998/DineAR)
+### 3. [WorkIt](https://github.com/saini1998/WorkIt)
+### 1. InspoQuotes
 ### 2. [ToDo List](https://github.com/saini1998/ToDo_List_App)
 ### 3. [Hacker News](https://github.com/saini1998/HackerNews-App)
 ### 4. Flashchat
