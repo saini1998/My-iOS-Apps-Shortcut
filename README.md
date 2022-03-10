@@ -5,6 +5,7 @@
 ### [MVP](https://github.com/saini1998/MVP)
 
 ## Apps (recent ones first)
+### [Hashable and Equatable](https://github.com/saini1998/hashableEquatable)
 ### [Retain Cycles and Instrument Profiler](https://github.com/saini1998/RetainCycleInstrumentProfiler)
 ### [Key Chain Implementation](https://github.com/saini1998/Keychain)
 ### [Conscious Glasses](https://github.com/saini1998/ConsciousGlassesApp)
