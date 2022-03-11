@@ -5,7 +5,8 @@
 ### [MVP](https://github.com/saini1998/MVP)
 ### [Dependency Injection](https://github.com/saini1998/DependencyInjection)
 
-## Apps (recent ones first)
+## iOS/Swift Concepts and Apps (recent ones first)
+### [Global Actors](https://github.com/saini1998/SwiftConcepts/tree/main/GlobalActors.playground)
 ### [Hashable and Equatable](https://github.com/saini1998/hashableEquatable)
 ### [Retain Cycles and Instrument Profiler](https://github.com/saini1998/RetainCycleInstrumentProfiler)
 ### [Key Chain Implementation](https://github.com/saini1998/Keychain)
