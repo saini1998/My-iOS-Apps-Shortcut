@@ -1,4 +1,4 @@
-# My-iOS-Shortcut
+# iOS Portfolio ... kinda
 
 ## Design Patterns
 ### [MVC](https://github.com/saini1998/MVC_DesignPattern)
