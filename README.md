@@ -1,6 +1,8 @@
 # iOS Portfolio......................................................... kinda
 
-## Design Patterns
+<h3>
+  Design Patterns
+</h3>
 
 <details>
   <summary>Click here to view!</summary>
@@ -9,7 +11,9 @@
   ### [Dependency Injection](https://github.com/saini1998/DependencyInjection)
 </details>
 
-## iOS/Swift Concepts
+<h3>
+  ## iOS/Swift Concepts
+</h3>
 
 <details>
   <summary>Click here to view!</summary>
@@ -25,7 +29,9 @@
   ### [Key Chain Implementation](https://github.com/saini1998/Keychain)
 </details>
 
-## iOS Apps (recent ones first)
+<h3>
+  iOS Apps (recent ones first)
+</h3>
 
 <details>
   <summary>Click here to view!</summary>
@@ -49,4 +55,7 @@
   ### [MakeYourStory](https://github.com/saini1998/MakeYourStory)
 </details>
 
-## More things will be added as and when I feel like it. 😪
+<h3> 
+  More things will be added as and when I feel like it. 😪
+</h3>
+  
