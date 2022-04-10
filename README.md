@@ -22,8 +22,8 @@
   
 ### [Async Await](https://github.com/saini1998/asyncawait)
 ### Dispatch Queues:
-     1. [Swift Project](https://github.com/saini1998/dispatchQueues)
-     2. [Swift Playground](https://github.com/saini1998/SwiftConcepts/blob/main/DispatchQueue.playground/Contents.swift)
+1. [Swift Project](https://github.com/saini1998/dispatchQueues)
+2. [Swift Playground](https://github.com/saini1998/SwiftConcepts/blob/main/DispatchQueue.playground/Contents.swift)
 ### [Actors](https://github.com/saini1998/SwiftConcepts/tree/main/Actors.playground)
 ### [Rethrows](https://github.com/saini1998/SwiftConcepts/tree/main/Rethrow.playground)
 ### [Global Actors](https://github.com/saini1998/SwiftConcepts/tree/main/GlobalActors.playground)
