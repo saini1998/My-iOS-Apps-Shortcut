@@ -1,7 +1,7 @@
 # iOS Portfolio......................................................... kinda
 
 <h3>
-  Design Patterns
+  <u>Design Patterns</u>
 </h3>
 
 <details>
@@ -14,7 +14,7 @@
 </details>
 
 <h3>
-  iOS/Swift Concepts
+  <u>iOS/Swift Concepts</u>
 </h3>
 
 <details>
@@ -34,7 +34,7 @@
 </details>
 
 <h3>
-  iOS Apps (recent ones first)
+  <u>iOS Apps (recent ones first)</u>
 </h3>
 
 <details>
