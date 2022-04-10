@@ -12,7 +12,7 @@
 </details>
 
 <h3>
-  ## iOS/Swift Concepts
+  iOS/Swift Concepts
 </h3>
 
 <details>
