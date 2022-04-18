@@ -10,6 +10,7 @@
 #### [MVC](https://github.com/saini1998/MVC_DesignPattern)
 #### [MVP](https://github.com/saini1998/MVP)
 #### [Dependency Injection](https://github.com/saini1998/DependencyInjection)
+#### [MVVM](https://github.com/saini1998/mvvmMusicSearchExample)
   
 </details>
 
